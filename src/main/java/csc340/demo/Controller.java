@@ -11,7 +11,7 @@ import org.springframework.web.client.RestTemplate;
 @RequestMapping("/api")
 public class Controller {
 
-    private static final String DB_COCKTAILS = "www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita\n";
+    private static final String DB_COCKTAILS = "https://www.thecocktaildb.com/api/json/v1/1/search.php?s=margarita";
 
 
     @GetMapping("/Margarita")
