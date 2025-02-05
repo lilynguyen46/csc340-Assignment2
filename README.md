@@ -1,3 +1,6 @@
 # CSC 340 Assignment 2
 # Working with APIs 
-## https:localhost:8080/api/Margarita
+## Clone repo 
+## Open in Intelij, run program
+## In POSTMAN 
+## https:localhost:8080/api/Margarita (GET)
